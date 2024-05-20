@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "cd88",
+      "title": "",
+      "author": "",
+      "body": ""
+    },
+    {
+      "id": "2217",
+      "title": "",
+      "author": "",
+      "body": ""
+    },
+    {
+      "id": "b1b3",
+      "title": "",
+      "author": "",
+      "body": ""
+    },
+    {
+      "id": "240c",
+      "title": "",
+      "author": ";lknbouivy",
+      "body": "l;jigyu"
+    },
+    {
+      "id": "82d3",
+      "title": "react",
+      "author": "mary doe",
+      "body": "React is a JavaScript library for building user interfaces.\n\nReact is used to build single-page applications.\n\nReact allows us to create reusable UI components."
+    }
+  ]
+}
