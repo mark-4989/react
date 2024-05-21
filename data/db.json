@@ -1,34 +1,10 @@
 {
   "blogs": [
     {
-      "id": "cd88",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "2217",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "b1b3",
-      "title": "",
-      "author": "",
-      "body": ""
-    },
-    {
-      "id": "240c",
-      "title": "",
-      "author": ";lknbouivy",
-      "body": "l;jigyu"
-    },
-    {
-      "id": "82d3",
-      "title": "react",
-      "author": "mary doe",
-      "body": "React is a JavaScript library for building user interfaces.\n\nReact is used to build single-page applications.\n\nReact allows us to create reusable UI components."
+      "id": "d016",
+      "title": "climate change",
+      "author": "john joe",
+      "body": "In common usage, climate change describes global warming—the ongoing increase in global average temperature—and its effects on Earth's climate system. Climate change in a broader sense also includes previous long-term changes to Earth's climate. The current rise in global average temperature is primarily caused by humans burning fossil fuels since the Industrial Revolution.[3][4] Fossil fuel use, deforestation, and some agricultural and industrial practices add to greenhouse gases.[5] These gases absorb some of the heat that the Earth radiates after it warms from sunlight, warming the lower atmosphere. Carbon dioxide, the primary greenhouse gas driving global warming, has grown by about 50% and is at levels unseen for millions of years.[6]\n\nClimate change has an increasingly large impact on the environment. Deserts are expanding, while heat waves and wildfires are becoming more common.[7] Amplified warming in the Arctic has contributed to thawing permafrost, retreat of glaciers and sea ice decline.[8] Higher temperatures are also causing more intense storms, droughts, and other weather extremes.[9] Rapid environmental change in mountains, coral reefs, and the Arctic is forcing many species to relocate or become extinct.[10] Even if efforts to minimise future warming are successful, some effects will continue for centuries. These include ocean heating, ocean acidification and sea level rise.[11]"
     }
   ]
 }

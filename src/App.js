@@ -5,7 +5,9 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./components/Create.js";
 import Create from "./components/Create.js";
 import Home from "./components/Home.js";
-import BlogList from "./components/BlogList.js";
+// import BlogList from "./components/BlogList.js";
+import BlogDetails from "./components/BlogDetails.js";
+import NotFound from "./components/NotFound.js";
 
 function App() {
   return (
@@ -20,8 +22,14 @@ function App() {
             <Route path="/Create">
               <Create />
             </Route>{" "}
-            <Route path="/BlogList">
-              <BlogList />
+            {/* <Route path="/BlogList">
+                                                  <BlogList />
+                                                </Route>{" "} */}{" "}
+            <Route path="/BlogDetails/:id">
+              <BlogDetails />
+            </Route>{" "}
+            <Route path="#">
+              <NotFound />
             </Route>{" "}
           </Switch>{" "}
         </div>{" "}

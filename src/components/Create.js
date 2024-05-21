@@ -77,6 +77,7 @@ const Create = () => {
         </Button>{" "}
         <ToastContainer />
       </form>{" "}
+      <p> {data.title} </p>{" "}
     </div>
   );
 };
